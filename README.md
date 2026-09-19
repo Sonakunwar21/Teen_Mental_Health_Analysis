@@ -329,8 +329,4 @@ Rather than treating EDA as a collection of plots, this notebook approaches it a
 
 ## 👨‍💻 Author
 
-**Shraddha Bisht**
-
-*Data Analyst • AI Data Scientist • Python | SQL | Power BI | Machine Learning*
-
-⭐ If this project helped you, consider starring the repository and connecting with me on GitHub or LinkedIn.
+**Sona Kunwar**
